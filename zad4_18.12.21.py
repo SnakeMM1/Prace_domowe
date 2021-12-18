@@ -1,0 +1,2 @@
+#%%
+#Napisz funkcje obliczjaca silnie
