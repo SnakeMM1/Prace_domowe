@@ -1,4 +1,6 @@
 #%%
+
+# import C:\Users\student03\Documents\18.12.2021_Marcin_python\Module\moduls.py
 # Napisz funkcje, ktora stwierdzi czy slowo (string)jest palindromem. Jezeli tak to funcja ma zwrocic true.
 
 # function to check string is
