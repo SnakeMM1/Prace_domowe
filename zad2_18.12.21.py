@@ -6,12 +6,13 @@
 #Iterate over numbers used as indices
 #    print(a_list[index])
 
-fruits = ['orange', 'apple1', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana1']
             
 def Check(thelist):
   seen = set()
   for x in thelist:
-    if x in seen: return True
+    if x in seen: 
+      return True
     seen.add(x)
     print(seen)
   return False
@@ -32,3 +33,4 @@ else:
 
 
         
+# %%
